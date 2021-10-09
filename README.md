@@ -1,4 +1,4 @@
-### Hi there I'm Yeji🩸🐰
+### Hi there I'm Yeji🩸🐰:)
 
 <div align="right"> 
 <a href="https://www.instagram.com/yejeeei._"><img src="https://img.shields.io/badge/yejeeei._-cc67eb?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/yejeeei._" /></a> <a href="mailto:ablyeji4021@naver.com"><img src="https://img.shields.io/badge/naver.com-19ce60?style=flat&logo=Naver&logoColor=white&link=mailto:ablyeji4021@naver.com"/></a> <a href="mailto:22100396@handong.edu"><img src="https://img.shields.io/badge/handong.edu-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:22100396@handong.edu"/></a> <a href="https://open.kakao.com/o/sbz4b4Cd"><img src="https://img.shields.io/badge/kakao-FFCD00?style=flat&logo=KakaoTalk&logoColor=451906&link=https://open.kakao.com/o/sbz4b4Cd" /></a>
