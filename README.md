@@ -1,4 +1,7 @@
 ### Hi there I'm Yeji🩸🐰:)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YYYEJI&&show_icons=true&theme=dracula)
+
 <h2 align="left">🛠 Languages and Tools:</h2>
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
@@ -24,7 +27,7 @@
 <a href="https://www.instagram.com/roseeeei._/"><img src="https://img.shields.io/badge/yejeeei._-cc67eb?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/roseeeei._/" /></a> <a href="mailto:ablyeji4021@naver.com"><img src="https://img.shields.io/badge/naver.com-19ce60?style=flat&logo=Naver&logoColor=white&link=mailto:ablyeji4021@naver.com"/></a> <a href="mailto:22100396@handong.ac.kr"><img src="https://img.shields.io/badge/handong.ac.kr-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:22100396@handong.ac.kr"/></a> <a href="https://open.kakao.com/o/sbz4b4Cd"><img src="https://img.shields.io/badge/kakao-FFCD00?style=flat&logo=KakaoTalk&logoColor=451906&link=https://open.kakao.com/o/sbz4b4Cd" /></a>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YYYEJI&&show_icons=true&theme=dracula)
+
 
 
 - [Baekjoon](https://www.acmicpc.net/user/ablyeji4021)       
