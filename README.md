@@ -7,10 +7,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YYYEJI&&show_icons=true&theme=dracula)
 
 
-- [Baekjoon](https://www.acmicpc.net/user/ablyeji4021)       
-       
-  [![백준 랭킹](http://mazassumnida.wtf/api/v2/generate_badge?boj=ablyeji4021)](https://www.acmicpc.net/user/ablyeji4021)
-
 
 <h2 align="left">🛠 Languages and Tools:</h2>
 <p align="left"> 
