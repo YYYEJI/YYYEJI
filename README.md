@@ -5,7 +5,7 @@
 </div>
 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YYYEJI&&show_icons=true&theme=dracula)
 
 
 <h2 align="left">🛠 Languages and Tools:</h2>
