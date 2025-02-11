@@ -1,6 +1,6 @@
 ### Hi there I'm Yeji Rosie Song🩸🐰:)
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=WelcometoYeji'sGithub&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=WelcometoYeji'sGithub&fontSize=60)
 
 
 <div align="right"> 
