@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff1cff&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffd51c&height=150&section=header" />
 ### Welcome to Yeji's Github
 
 
