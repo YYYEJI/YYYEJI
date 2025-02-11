@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=efbaff&height=150&section=header" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=efbaff&height=150&section=header&text=Hello%20Yeji!&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=efbaff&height=150&section=header&text=Hello%20Yeji!&fontSize=40&fontColor=ffffff&fontAlignY=30" />
 
 <div align="right"> 
 <a href="https://www.instagram.com/__izey_/"><img src="https://img.shields.io/badge/__izey_-cc67eb?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/__izey_" /></a> <a href="mailto:rosie4021@naver.com"><img src="https://img.shields.io/badge/naver.com-19ce60?style=flat&logo=Naver&logoColor=white&link=mailto:rosie4021@naver.com"/></a> <a href="mailto:22100396@handong.ac.kr"><img src="https://img.shields.io/badge/handong.ac.kr-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:22100396@handong.ac.kr"/></a> <a href="https://open.kakao.com/o/sbz4b4Cd"><img src="https://img.shields.io/badge/kakao-FFCD00?style=flat&logo=KakaoTalk&logoColor=451906&link=https://open.kakao.com/o/sbz4b4Cd" /></a>
