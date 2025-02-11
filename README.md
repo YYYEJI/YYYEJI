@@ -1,7 +1,7 @@
 ### Hi there I'm Yeji Rosie Song🩸🐰:)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+
 
 
 <div align="right"> 
@@ -45,3 +45,5 @@
 - ⚡ Fun fact: ...
 
  -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
