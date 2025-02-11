@@ -13,10 +13,12 @@
 - 📫 How to reach me: 22100396@handong.ac.kr
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love stargazing ><
+</u>
 
+### Github Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YYYEJI&&show_icons=true&theme=dracula)
-
+</u>
 
 <h2 align="left">🛠 Languages and Tools:</h2>
 <p align="left"> 
