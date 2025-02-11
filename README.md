@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on AI projects!
 - 🌱 I’m currently learning Advanced machine learning techniques.
 - 👯 I’m looking to collaborate on AI research and development with leading tech companies.  
-- 🤔 I’m looking for help with 
+- 🤔 I’m looking for help with Gaining experince in AI-related projects.
 - 💬 Ask me about Python, AI, and Career Coaching.
 - 📫 How to reach me: 22100396@handong.ac.kr
 - 😄 Pronouns: She/Her
