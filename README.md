@@ -1,7 +1,5 @@
-### Hi there I'm Yeji Rosie Song🩸🐰:)
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-
+### Welcome to Yeji's Github
 
 
 <div align="right"> 
