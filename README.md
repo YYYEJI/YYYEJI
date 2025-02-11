@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=efbaff&height=200&section=header&text=Welcome%20to%20Yeji's%20Github!&fontSize=40&fontColor=ffffff&fontAlignY=35" />
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20Yeji's%20Github!&fontSize=50&fontAlignY=35)
 
 <div align="right"> 
