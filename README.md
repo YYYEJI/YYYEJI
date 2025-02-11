@@ -6,6 +6,7 @@
 
 <h2 align="left">🐰 About Me:</h2>
 <p align="left"> 
+  
 - 🔭 I’m currently working on AI projects!
 - 🌱 I’m currently learning Advanced machine learning techniques.
 - 👯 I’m looking to collaborate on AI research and development with leading tech companies.  
