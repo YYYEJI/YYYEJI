@@ -13,7 +13,7 @@
 - 📫 How to reach me: 22100396@handong.ac.kr
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love stargazing ><
-</u>
+</p>
 
 ### Github Stats
 
