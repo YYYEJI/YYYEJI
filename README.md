@@ -15,10 +15,7 @@
 - ⚡ Fun fact: I love stargazing ><
 </p>
 
-### Github Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YYYEJI&&show_icons=true&theme=dracula)
-</u>
 
 <h2 align="left">🛠 Languages and Tools:</h2>
 <p align="left"> 
@@ -44,6 +41,9 @@
 </p>
   
 
- -->
+### Github Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YYYEJI&&show_icons=true&theme=dracula)
+</u>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=efbaff&height=150&section=footer" />
