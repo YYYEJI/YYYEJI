@@ -7,11 +7,11 @@
 <h2 align="left">🐰 About Me:</h2>
 <p align="left"> 
   
-- 🔭 I’m currently working on AI projects!
-- 🌱 I’m currently learning Advanced machine learning techniques.
-- 👯 I’m looking to collaborate on AI research and development with leading tech companies.  
+- 🔭 I’m currently working on web/app and AI projects!
+- 🌱 I’m currently learning Advanced machine learning techniques and various tools for web/app development (React, Flutter, Blazor, etc.).
+- 👯 I’m looking to collaborate on web/app and AI-related research and development with leading tech companies.
 - 🤔 I’m looking for help with Gaining experince in AI-related projects.
-- 💬 Ask me about Python, AI, and Career Coaching.
+- 💬 Ask me about AI, web/app development, or anything related to gaining experience in tech!
 - 📫 How to reach me: 22100396@handong.ac.kr
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love stargazing ><
